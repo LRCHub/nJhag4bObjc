@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "フィクサー",
+  "base_artist": "ぬゆり",
+  "createdAt": "2025-12-03T15:55:14.094326Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "フィクサー",
+      "artist": "ぬゆり",
+      "has_synced": false,
+      "path": "select/01_フィクサー_ぬゆり.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "フィクサー",
+      "artist": "Nuyuri",
+      "has_synced": false,
+      "path": "select/02_フィクサー_Nuyuri.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "フィクサー",
+      "artist": "ぬゆり feat. v flower",
+      "has_synced": true,
+      "path": "select/03_フィクサー_ぬゆり_feat._v_flower.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "フィクサー",
+      "artist": "ぬゆり",
+      "has_synced": true,
+      "path": "select/04_フィクサー_ぬゆり.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "フィクサー",
+      "artist": "ぬゆり feat. flower",
+      "has_synced": true,
+      "path": "select/05_フィクサー_ぬゆり_feat._flower.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "フィクサー",
+      "artist": "ぬゆり feat. flower",
+      "has_synced": true,
+      "path": "select/06_フィクサー_ぬゆり_feat._flower.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "フィクサー (feat. 天馬司&神代類)",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": true,
+      "path": "select/07_フィクサー_(feat._天馬司&神代類)_ワンダーランズ×ショウタイム.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "フィクサー",
+      "artist": "nulut",
+      "has_synced": true,
+      "path": "select/08_フィクサー_nulut.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フィクサー",
+      "artist": "ぬゆり",
+      "has_synced": false,
+      "path": "select/pl_01_フィクサー_ぬゆり.txt"
+    }
+  ]
+}
