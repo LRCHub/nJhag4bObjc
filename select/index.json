@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "フィクサー",
-  "base_artist": "ぬゆり",
-  "createdAt": "2025-12-03T15:55:14.094326Z",
+  "base_track": "フィクサー /そらる×nqrse【歌ってみた】",
+  "base_artist": "そらる",
+  "createdAt": "2026-03-24T17:32:48.273813Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -55,26 +55,35 @@
     {
       "id": "lrclib_7",
       "source": "lrclib",
-      "title": "フィクサー (feat. 天馬司&神代類)",
-      "artist": "ワンダーランズ×ショウタイム",
+      "title": "フィクサー",
+      "artist": "nulut",
       "has_synced": true,
-      "path": "select/07_フィクサー_(feat._天馬司&神代類)_ワンダーランズ×ショウタイム.lrc"
+      "path": "select/07_フィクサー_nulut.lrc"
     },
     {
       "id": "lrclib_8",
       "source": "lrclib",
-      "title": "フィクサー",
-      "artist": "nulut",
+      "title": "フィクサー (feat. 天馬司&神代類)",
+      "artist": "ワンダーランズ×ショウタイム",
       "has_synced": true,
-      "path": "select/08_フィクサー_nulut.lrc"
+      "path": "select/08_フィクサー_(feat._天馬司&神代類)_ワンダーランズ×ショウタイム.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
       "title": "フィクサー",
-      "artist": "ぬゆり",
+      "artist": "そらる×nqrse",
       "has_synced": false,
-      "path": "select/pl_01_フィクサー_ぬゆり.txt"
+      "path": "select/pl_01_フィクサー_そらる×nqrse.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "フィクサー /そらる×nqrse【歌ってみた】",
+      "artist": "そらる",
+      "has_synced": false,
+      "path": "select/localdb_01_フィクサー__そらる×nqrse【歌ってみた】_そらる.txt",
+      "repo_name": "nJhag4bObjc"
     }
   ]
 }
